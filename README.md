@@ -13,3 +13,5 @@ The following should never be done:
 - **Duplicates** If your issue is already open, don't make another issue. Instead, describe that you are experiencing the same issue in a reply to another entry. To view current issues, [click here](https://github.com/iGBAEmu/EclipseIssues/issues).
 
 - **Close Prematurely** If you are closing an issue, you are agreeing that it is no longer needed (example: a bug fix was implemented). If you are closing it, please say why.
+
+- **Report Vulnerabilities with GitHub** If you have a possible security flaw, contact a member of the Eclipse team directly, such as @HeyItsShuga or @1GamerDev on Twitter. We don't want anyone abusing a vulnerability before it's fixed!
