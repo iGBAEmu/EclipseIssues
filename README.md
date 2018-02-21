@@ -15,3 +15,7 @@ The following should never be done:
 - **Close Prematurely** If you are closing an issue, you are agreeing that it is no longer needed (example: a bug fix was implemented). If you are closing it, please say why.
 
 - **Report Vulnerabilities with GitHub** If you have a possible security flaw, contact a member of the Eclipse team directly, such as @HeyItsShuga or @1GamerDev on Twitter. We don't want anyone abusing a vulnerability before it's fixed!
+
+## Debugging
+
+Eclipse has a built-in debugger as of version 1.0.9. To make it visible, go to Settings and tap on the navbar (with the word "Settings") five (5) times to enable Debug Mode. Go into the debugger menu, and various options would be available (such as the ability to create an issue with all important information pre-attached, the states of various settings, and some buttons to force Eclipse to run certain tasks.
