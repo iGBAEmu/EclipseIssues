@@ -16,6 +16,8 @@ The following should never be done:
 
 - **Report Vulnerabilities with GitHub** If you have a possible security flaw, contact a member of the Eclipse team directly, such as @HeyItsShuga or @1GamerDev on Twitter. We don't want anyone abusing a vulnerability before it's fixed!
 
+- **Making Duplicates** In order to make things easier to navigate, we ask that you only make an issue if it hasn't already been made. This helps keep things tidy for us.
+
 ## Debugging
 
-Eclipse has a built-in debugger as of version 1.0.9. To make it visible, go to Settings and tap on the navbar (with the word "Settings") five (5) times to enable Debug Mode. Go into the debugger menu, and various options would be available (such as the ability to create an issue with all important information pre-attached, the states of various settings, and some buttons to force Eclipse to run certain tasks.
+Eclipse has a built-in debugger. You can either tap-hold or right-click the settings button or go to settings and scroll down to the debug section. The debugger offers the ability to clear cache, report a bug from in-app, view issues, and run a web inspector. If you ever find any issues with Eclipse and want to help make things easier for us, we recommend that you use the web inspector to see if there are any errors in the console that may be related to your issue.
