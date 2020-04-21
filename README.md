@@ -1,6 +1,15 @@
 # Eclipse Issue Tracker
 This is the official issue tracker for [Eclipse](https://eclipseemu.me), a Web-based multi-system emulator. There is no source code on this repository.
 
+## Frequently Reported Bugs
+All duplicate issues will be closed, so please check the issue tracker for your bug before posting. Here are some of the most common bugs reported and features requested:
+
+- [Sound issues](https://github.com/iGBAEmu/EclipseIssues/issues/36)
+- [Menu button unresponsive](https://github.com/iGBAEmu/EclipseIssues/issues/41)
+- [Controls are unresponsive](https://github.com/iGBAEmu/EclipseIssues/issues/45)
+- [Saving issues](https://github.com/iGBAEmu/EclipseIssues/issues/60) (make sure you save in-game and via the `Menu` option!)
+- [Cheat code support](https://github.com/iGBAEmu/EclipseIssues/issues/74)
+
 ## How to Submit Feedback
 To create a new issue (despite the name, it also applies to feature requests and enhancements), click [here](https://github.com/iGBAEmu/EclipseIssues/issues/new). Your title should be relevant to your issue/request. In your description, provide any screenshots, errors, and descriptions relevant to the issue. You should also include steps to recreate bugs (if applicable), as well as your browser, operating system, and system version.
 
