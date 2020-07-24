@@ -23,7 +23,7 @@ The following should never be done:
 
 - **Close Prematurely** If you are closing an issue, you are agreeing that it is no longer needed (example: a bug fix was implemented). If you are closing it, please say why.
 
-- **Report Vulnerabilities with GitHub** If you have a possible security flaw, contact a member of the Eclipse team directly, such as @HeyItsShuga or @1GamerDev on Twitter. We don't want anyone abusing a vulnerability before it's fixed!
+- **Report Vulnerabilities with GitHub** If you have a possible security flaw, contact a member of Zenith directly, such as @HeyItsShuga or @magnetardev on Twitter. We don't want anyone abusing a vulnerability before it's fixed!
 
 - **Making Duplicates** In order to make things easier to navigate, we ask that you only make an issue if it hasn't already been made. This helps keep things tidy for us.
 
