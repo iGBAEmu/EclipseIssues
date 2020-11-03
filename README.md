@@ -25,7 +25,7 @@ The following should never be done:
 
 - **Report Vulnerabilities with GitHub** If you have a possible security flaw, contact a member of Zenith directly, such as @HeyItsShuga or @magnetardev on Twitter. We don't want anyone abusing a vulnerability before it's fixed!
 
-- **Making Duplicates** In order to make things easier to navigate, we ask that you only make an issue if it hasn't already been made. This helps keep things tidy for us.
+- **Ask Questions** This is *not* an FAQ board, this is a bug tracker. For frequently asked questions, check our Discord, website, or in the app under Help.
 
 ## Debugging
 
