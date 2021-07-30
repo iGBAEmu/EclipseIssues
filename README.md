@@ -1,6 +1,11 @@
 # Eclipse Issue Tracker
 This is the official issue tracker for [Eclipse](https://eclipseemu.me), a Web-based multi-system emulator. There is no source code on this repository.
 
+
+---
+**THIS REPO IS NOW ARCHIVED, NO NEW ISSUES CAN BE MADE. ALMOST EVERY OPEN ISSUE IS A DUPLICATE OR WAS REPORTED ELSEWHERE. WHEN VERSION 3 OF ECLIPSE RELEASES, ISSUES WILL GO ON ITS REPO. IF YOU HAVE AN ACTUAL ISSUE, PLEASE GO TO OUR [DISCORD](https://discord.gg/WUwQ6dt) AND ASK THERE.**
+---
+
 ## Frequently Reported Bugs
 All duplicate issues will be closed, so please check the issue tracker for your bug before posting. Here are some of the most common bugs reported and features requested:
 
